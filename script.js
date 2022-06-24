@@ -10,7 +10,7 @@
 
 //using function
 function userInfo(myname, height, country) {
-    alert('Name: ' + myname +'\nHeight: ' + height + 'ft \nCountry: ' + country)
+    alert('Name: ' + myname + '\nHeight: ' + height + 'ft \nCountry: ' + country)
 }
 
 userInfo("Ekene Clarence", 5.7, "Nigeria")
